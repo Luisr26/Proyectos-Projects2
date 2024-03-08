@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "miweb",
+			"path": "../programing_JS/miweb"
+		}
+	],
+	"settings": {}
+}
